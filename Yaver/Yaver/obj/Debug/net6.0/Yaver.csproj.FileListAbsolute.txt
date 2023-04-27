@@ -1,0 +1,15 @@
+C:\Users\fatalifa\source\repos\Yaver\Yaver\bin\Debug\net6.0\Yaver.exe
+C:\Users\fatalifa\source\repos\Yaver\Yaver\bin\Debug\net6.0\Yaver.deps.json
+C:\Users\fatalifa\source\repos\Yaver\Yaver\bin\Debug\net6.0\Yaver.runtimeconfig.json
+C:\Users\fatalifa\source\repos\Yaver\Yaver\bin\Debug\net6.0\Yaver.dll
+C:\Users\fatalifa\source\repos\Yaver\Yaver\bin\Debug\net6.0\Yaver.pdb
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.csproj.AssemblyReference.cache
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.AssemblyInfoInputs.cache
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.AssemblyInfo.cs
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.csproj.CoreCompileInputs.cache
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.dll
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\refint\Yaver.dll
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.pdb
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\Yaver.genruntimeconfig.cache
+C:\Users\fatalifa\source\repos\Yaver\Yaver\obj\Debug\net6.0\ref\Yaver.dll
